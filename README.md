@@ -10,9 +10,7 @@
 - 👯 I’m looking to collaborate on **Full Web Development Projects**
 
 - 🤝 I’m looking for help with **Springboot**
-
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/revith-kumar-p-3251ba25b](www.linkedin.com/in/revith-kumar-p-3251ba25b)
-
+  
 - 💬 Ask me about **react, java ,MERN**
 
 - 📫 How to reach me **revithkumar580@gmail.com**
